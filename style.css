@@ -1,0 +1,24 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+ body{
+background: #151a27;
+min-height: 100vh;
+padding: 10px;
+}
+p,li{
+    font-size: 50px;
+    color:aliceblue
+}
+#in{
+margin-bottom: 1%;
+
+ background-color: white;
+    padding: 10px 5px;
+  }
+  img{
+    padding: 1%;
+    
+  }
